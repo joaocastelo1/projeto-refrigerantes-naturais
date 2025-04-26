@@ -62,6 +62,15 @@ Acesse as diferentes seções do site (Home, Sabores, Contato).
 Preencha o formulário de contato (opcionalmente, pode ser integrado com backend futuramente).
 
 Navegue em diferentes dispositivos e veja a adaptação do layout.
+<div id="user-content-toc">
+  <ul align="center">
+    <h2 style="display: inline-block">Imagens:</h2>
+  </ul>
+</div>
+
+<div align="center"> 
+  <img src="https://i.postimg.cc/9QT91d1x/Screenshot-1.png">
+</div>
 
 🤝 Contribuição
 Sinta-se livre para sugerir melhorias, abrir issues ou enviar Pull Requests.
